@@ -1,9 +1,12 @@
 # 2
 index.html
 
+
 <html>
 <header>
 <h1>10 самых дорогих картин в мире</h1>
+  <a href="https://oritub.github.io/1/">Читайте также-10 самых редких профессий в мире</a><br>
+<a href="https://oritub.github.io/3/">Читайте также-10самых дорогих блюд в мире</a><br>
 <link rel="stylesheet" href="style.css"/>
 </header>
 <main>
@@ -37,7 +40,5 @@ index.html
 <p class="b">10. ОБНАЖЁННАЯ,ЗЕЛЁНЫЕ ЛИСТЬЯ И БЮСТ </p>
 <p>Название: Обнаженная, зеленые листья и бюст<br> Год написания: 1932<br> Автор: Пабло Пикассо<br> Цена: 106, 5 млн долларов<br>
 </p>
-<a href="https://htmlbook.ru/html">Читайте также-10 самых редких профессий в мире</a><br>
-<a href="https://htmlbook.ru/html">Читайте также-10самых дорогих блюд в мире</a><br>
 </main>
 </html>
